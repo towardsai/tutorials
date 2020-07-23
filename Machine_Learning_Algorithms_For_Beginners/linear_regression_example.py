@@ -1,7 +1,7 @@
 # Import required libraries:
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt 
 from sklearn import linear_model
 
 # Read the CSV file :
@@ -46,7 +46,7 @@ plt.ylabel("Emission")
 def get_regression_predictions(input_features,intercept,slope):
  predicted_values = input_features*slope + intercept
  return predicted_values
- 
+
 # Predicting emission for future car:
 my_engine_size = 3.5
 estimatd_emission = get_regression_predictions(my_engine_size,regr.intercept_[0],regr.coef_[0][0])
