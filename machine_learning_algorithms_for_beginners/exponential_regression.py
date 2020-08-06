@@ -2,7 +2,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.optimize import curve_fit
-
+ 
 # Dataset values :
 day = np.arange(0,8)
 weight = np.array([251,209,157,129,103,81,66,49])
