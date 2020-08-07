@@ -7,3 +7,5 @@
 [Building Neural Networks with Python Code and Math in Detail — II](https://towardsai.net/p/machine-learning/building-neural-networks-with-python-code-and-math-in-detail-ii-bbe8accbf3d1)
 
 [Natural Language Processing (NLP) with Python — Tutorial](https://towardsai.net/p/nlp/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0)
+
+[Monte Carlo Simulation An In-depth Tutorial with Python](https://towardsai.net/p/machine-learning/monte-carlo-simulation-an-in-depth-tutorial-with-python-bcf6eb7856c8)
