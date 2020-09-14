@@ -9,3 +9,5 @@
 [Natural Language Processing (NLP) with Python — Tutorial](https://towardsai.net/p/nlp/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0)
 
 [Monte Carlo Simulation An In-depth Tutorial with Python](https://towardsai.net/p/machine-learning/monte-carlo-simulation-an-in-depth-tutorial-with-python-bcf6eb7856c8)
+
+[Survival Analysis with Python Tutorial — How, What, When, and Why](https://towardsai.net/survival-analysis-with-python)
