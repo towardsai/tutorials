@@ -10,7 +10,7 @@
 
 [Monte Carlo Simulation An In-depth Tutorial with Python](https://towardsai.net/p/machine-learning/monte-carlo-simulation-an-in-depth-tutorial-with-python-bcf6eb7856c8)
 
-[Survival Analysis with Python Tutorial — How, What, When, and Why](arrow-right	https://towardsai.net/p/machine-learning/survival-analysis-with-python-tutorial-how-what-when-and-why-19a5cfb3c312)
+[Survival Analysis with Python Tutorial — How, What, When, and Why](https://towardsai.net/p/machine-learning/survival-analysis-with-python-tutorial-how-what-when-and-why-19a5cfb3c312)
 
 [Moment Generating Function for Probability Distribution with Python](https://towardsai.net/p/data-science/moment-generating-function-for-probability-distribution-with-python-tutorial-34857e93d8f6)
 
