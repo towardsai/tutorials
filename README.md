@@ -15,3 +15,5 @@
 [Moment Generating Function for Probability Distribution with Python](https://towardsai.net/p/data-science/moment-generating-function-for-probability-distribution-with-python-tutorial-34857e93d8f6)
 
 [Bernoulli Distribution — Probability Tutorial with Python](https://towardsai.net/p/statistics/bernoulli-distribution-probability-tutorial-with-python-90061ee078a)
+
+[Recommendation System Tutorial with Python using Collaborative Filtering](https://towardsai.net/p/machine-learning/recommendation-system-in-depth-tutorial-with-python-for-netflix-using-collaborative-filtering-533ff8a0e444)
