@@ -17,3 +17,5 @@
 [Bernoulli Distribution — Probability Tutorial with Python](https://towardsai.net/p/statistics/bernoulli-distribution-probability-tutorial-with-python-90061ee078a)
 
 [Recommendation System Tutorial with Python using Collaborative Filtering](https://towardsai.net/p/machine-learning/recommendation-system-in-depth-tutorial-with-python-for-netflix-using-collaborative-filtering-533ff8a0e444)
+
+[Linear Algebra for Deep Learning and Machine Learning (ML) Python Tutorial](https://towardsai.net/p/machine-learning/basic-linear-algebra-for-deep-learning-and-machine-learning-ml-python-tutorial-444e23db3e9e)
