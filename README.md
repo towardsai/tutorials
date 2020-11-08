@@ -18,6 +18,6 @@
 
 [Recommendation System Tutorial with Python using Collaborative Filtering](https://towardsai.net/p/machine-learning/recommendation-system-in-depth-tutorial-with-python-for-netflix-using-collaborative-filtering-533ff8a0e444)
 
-[Linear Algebra for Deep Learning and Machine Learning (ML) Python Tutorial](https://towardsai.net/p/machine-learning/basic-linear-algebra-for-deep-learning-and-machine-learning-ml-python-tutorial-444e23db3e9e)
+[Linear Algebra for Deep Learning and Machine Learning (ML) Python Tutorial](https://towardsai.net/p/machine-learning/basic-linear-algebra-for-deep-learning-and-machine-learning-ml-python-tutorial-444e23db3e9e) 
 
-[Principal Component Analysis (PCA) with Python Examples — Tutorial](https://towardsai.net/p/data-science/principal-component-analysis-pca-with-python-examples-tutorial-67a917bae9aa){:target="_blank"}
+<a href="https://towardsai.net/p/data-science/principal-component-analysis-pca-with-python-examples-tutorial-67a917bae9aa" target="_blank" rel="noopener">[Principal Component Analysis (PCA) with Python Examples — Tutorial</a>
