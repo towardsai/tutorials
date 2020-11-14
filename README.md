@@ -21,3 +21,5 @@
 [Linear Algebra for Deep Learning and Machine Learning (ML) Python Tutorial](https://towardsai.net/p/machine-learning/basic-linear-algebra-for-deep-learning-and-machine-learning-ml-python-tutorial-444e23db3e9e)
 
 [Principal Component Analysis (PCA) with Python Examples — Tutorial](https://towardsai.net/p/data-science/principal-component-analysis-pca-with-python-examples-tutorial-67a917bae9aa)
+
+[Decision Trees in Machine Learning (ML) with Python Tutorial](https://towardsai.net/p/machine-learning/decision-trees-in-machine-learning-ml-with-python-tutorial-3bfb457bce67)
