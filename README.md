@@ -25,3 +25,5 @@
 [Decision Trees in Machine Learning (ML) with Python Tutorial](https://towardsai.net/p/machine-learning/decision-trees-in-machine-learning-ml-with-python-tutorial-3bfb457bce67)
 
 [Convolutional Neural Networks (CNNs) Tutorial with Python](https://towardsai.net/p/deeplearning/convolutional-neural-networks-cnns-tutorial-with-python-417c29f0403f)
+
+[Sentiment Analysis (Opinion Mining) with Python - NLP Tutorial](https://towardsai.net/p/nlp/sentiment-analysis-opinion-mining-with-python-nlp-tutorial-d1f173ca4e3c)
