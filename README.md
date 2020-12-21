@@ -1,5 +1,13 @@
 # Tutorials
 
+**Please know that only the code contained in this repository is under the MIT license found at "LICENSE". All tutorials, and articles listed in this repository are property of Towards AI Co.**
+
+Thank you for reading and for being a supporter of Towards AI Co.
+
+Access any [tutorial for free](https://towardsai.net/editorial).
+
+**[Terms](https://towardsai.net/terms) | [Privacy Policy](https://towardsai.net/privacy)**
+
 [Machine Learning Algorithms For Beginners with Code Examples in Python](https://towardsai.net/p/machine-learning/machine-learning-algorithms-for-beginners-with-python-code-examples-ml-19c6afd60daa)
 
 [Neural Networks from Scratch with Python Code and Math in Detail— I](https://towardsai.net/p/machine-learning/building-neural-networks-from-scratch-with-python-code-and-math-in-detail-i-536fae5d7bbf)
