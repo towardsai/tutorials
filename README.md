@@ -1,6 +1,6 @@
 # Tutorials
 
-**Please know that only the code contained in this repository is under the MIT license found at "LICENSE". All tutorials, and articles listed in this repository are property of Towards AI Co.**
+**Please know that only the code contained in this repository is under the MIT license found at "LICENSE." All tutorials and articles listed in this repository are property of Towards AI Co.**
 
 Thank you for reading and for being a supporter of Towards AI Co.
 
