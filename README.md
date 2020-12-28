@@ -4,7 +4,7 @@
 
 Thank you for reading and for being a supporter of Towards AI Co.
 
-Access any [tutorial for free](https://towardsai.net/editorial).
+Access any [tutorial for free](https://towardsai.net/p/category/editorial).
 
 **[Terms](https://towardsai.net/terms) | [Privacy Policy](https://towardsai.net/privacy)**
 
