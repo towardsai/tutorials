@@ -39,3 +39,5 @@ ________________________________________________________________________________
 [Sentiment Analysis (Opinion Mining) with Python - NLP Tutorial](https://towardsai.net/p/nlp/sentiment-analysis-opinion-mining-with-python-nlp-tutorial-d1f173ca4e3c)
 
 [Gradient Descent for Machine Learning (ML) 101 with Python Tutorial](https://towardsai.net/p/data-science/gradient-descent-algorithm-for-machine-learning-python-tutorial-ml-9ded189ec556)
+
+[Random Number Generator Tutorial with Python](https://towardsai.net/p/data-science/random-number-generator-tutorial-with-python-3b35986132c7)
