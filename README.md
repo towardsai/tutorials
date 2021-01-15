@@ -41,3 +41,5 @@ ________________________________________________________________________________
 [Gradient Descent for Machine Learning (ML) 101 with Python Tutorial](https://towardsai.net/p/data-science/gradient-descent-algorithm-for-machine-learning-python-tutorial-ml-9ded189ec556)
 
 [Random Number Generator Tutorial with Python](https://towardsai.net/p/data-science/random-number-generator-tutorial-with-python-3b35986132c7)
+
+[What is Deep Learning?](https://towardsai.net/p/deep-learning/what-is-deep-learning-34767bb10366)
