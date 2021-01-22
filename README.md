@@ -43,3 +43,5 @@ ________________________________________________________________________________
 [Random Number Generator Tutorial with Python](https://towardsai.net/p/data-science/random-number-generator-tutorial-with-python-3b35986132c7)
 
 [What is Deep Learning?](https://towardsai.net/p/deep-learning/what-is-deep-learning-34767bb10366)
+
+[Genetic Algorithm (GA) Introduction with Example Code](https://towardsai.net/p/programming/genetic-algorithm-ga-introduction-with-example-code-e59f9bc58eaf)
