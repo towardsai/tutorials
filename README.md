@@ -45,3 +45,9 @@ ________________________________________________________________________________
 [What is Deep Learning?](https://towardsai.net/p/deep-learning/what-is-deep-learning-34767bb10366)
 
 [Genetic Algorithm (GA) Introduction with Example Code](https://towardsai.net/p/programming/genetic-algorithm-ga-introduction-with-example-code-e59f9bc58eaf)
+
+# Books
+
+If you'd like to support Towards AI, please Support us by buying one of our books ↓
+
+[Descriptive Statistics for Data-driven Decision Making with Python](https://gumroad.com/l/descriptive-statistics)
