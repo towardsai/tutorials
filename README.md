@@ -2,7 +2,7 @@
 
 **Please know that only the code contained in this repository is under the MIT license found at "[LICENSE](https://github.com/towardsai/tutorials/blob/master/LICENSE)." All tutorials, articles, and books listed in this repository are property of Towards AI Co.**
 
-If you'd like to support Towards AI, please Support us by [buying one of our books](https://gumroad.com/towardsai) (listed below), [sponsoring this open-source work](https://paypal.me/towardsai), or by becoming a [member](https://members.towardsai.net/). ↓
+If you'd like to support Towards AI, please support us by [buying one of our books](https://gumroad.com/towardsai) (listed below), [sponsoring this open-source work](https://paypal.me/towardsai), or by becoming a [member](https://members.towardsai.net/). ↓
 
 Thank you for reading and for being a supporter of Towards AI!
 
