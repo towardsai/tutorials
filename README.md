@@ -48,6 +48,10 @@ ________________________________________________________________________________
 
 [Genetic Algorithm (GA) Introduction with Example Code](https://towardsai.net/p/programming/genetic-algorithm-ga-introduction-with-example-code-e59f9bc58eaf)
 
+[K-Nearest Neighbors (KNN) Algorithm Tutorial — Machine Learning Basics](https://news.towardsai.net/knn)
+
+[What is a GPU? Are GPUs Needed for Deep Learning?](https://news.towardsai.net/gpu)
+
 # Books
 
 [Descriptive Statistics for Data-driven Decision Making with Python](https://gumroad.com/l/descriptive-statistics)
