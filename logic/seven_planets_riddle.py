@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
-"""seven-planets-riddle.ipynb 
+"""seven-planets-riddle.ipynb
 
 #Seven Planets Riddle
 
 * Tutorial: https://news.towardsai.net/spr
-* Github: https://github.com/towardsai/tutorials/tree/master/logic/seven-planets-riddle.py
+* Github: https://github.com/towardsai/tutorials/tree/master/logic/seven_planets_riddle.py
 """
 
 #Importing required libraries for calculations:
