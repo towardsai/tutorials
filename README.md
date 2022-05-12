@@ -1,8 +1,14 @@
 # Tutorials
 
-**Please know that only the code contained in this repository is under the MIT license found at "[LICENSE](https://github.com/towardsai/tutorials/blob/master/LICENSE)." All tutorials, articles, and books listed in this repository are property of Towards AI Co.**
+**Please know that only the code contained in this repository is under the MIT license found at "[LICENSE](https://github.com/towardsai/tutorials/blob/master/LICENSE)." All tutorials, articles, and books listed in this repository are property of Towards AI, Inc.**
 
-If you'd like to support Towards AI, please support us by [buying one of our books](https://gumroad.com/towardsai) (listed below), [sponsoring this open-source work](https://paypal.me/towardsai), or by becoming a [member](https://members.towardsai.net/). ↓
+**Would you like to collaborate** with our team on a tutorial? [Contact us](mailto:pub@towardsai.net), we are looking for contributors that would like to work with us one-on-one.
+
+To **contribute** directly to Towards AI, check out our [guideliens to get published](https://contribute.towardsai.net).
+
+Join our [AI community](https://community.towardsai.net).
+
+If you'd like to support Towards AI, please support us by [buying one of our books](https://gumroad.com/towardsai) (listed below), [sponsoring this open-source work](https://paypal.me/towardsai).
 
 Thank you for reading and for being a supporter of Towards AI!
 
