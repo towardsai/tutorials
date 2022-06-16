@@ -61,3 +61,7 @@ ________________________________________________________________________________
 # Books
 
 [Descriptive Statistics for Data-driven Decision Making with Python](https://gumroad.com/l/descriptive-statistics)
+
+# Sponsors
+
+Big thank you to C4H3I LLC for sponsoring us in June, 2022!
