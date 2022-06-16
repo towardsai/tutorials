@@ -2,6 +2,8 @@
 
 **Please know that only the code contained in this repository is under the MIT license found at "[LICENSE](https://github.com/towardsai/tutorials/blob/master/LICENSE)." All tutorials, articles, and books listed in this repository are property of Towards AI, Inc.**
 
+Please feel free to contribute. We'll review your pull requests ad-hoc. If you'd like to work with one of our data scientists in an editorial tutorial, please reach out via [editor@towardsai.net](mailto:editor@towardsai.net) and cc: [pub@towardsai.net](mailto:pub@towardsai.net).
+
 **Would you like to collaborate** with our team on a tutorial? [Contact us](mailto:pub@towardsai.net), we are looking for contributors that would like to work with us one-on-one.
 
 To **contribute** directly to Towards AI, check out our [guideliens to get published](https://contribute.towardsai.net).
