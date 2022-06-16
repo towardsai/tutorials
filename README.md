@@ -5,7 +5,7 @@
 Please feel free to contribute. We'll review your pull requests ad-hoc. 
 If you'd like to work with one of our data scientists in an editorial tutorial, please reach out via [editor@towardsai.net](mailto:editor@towardsai.net) and cc: [pub@towardsai.net](mailto:pub@towardsai.net).
 
-To **contribute** directly to Towards AI, check out our [guideliens to get published](https://contribute.towardsai.net).
+To **contribute** directly to Towards AI, check out our [guidelines to get published](https://contribute.towardsai.net).
 
 Join our [AI community](https://community.towardsai.net).
 
